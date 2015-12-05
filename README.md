@@ -12,3 +12,4 @@ This is an initiative so that I start working on open-source projects more serio
 - [ ] Learn about [Phantom JS](http://phantomjs.org/)
 - [ ] Create [Grand Budapest Hotel](https://www.behance.net/gallery/16495771/The-Grand-Budapest-Hotel-Flat) in CSS
 - [ ] Create Menu on [Apple's Website](http://apple.com)
+- [ ] Start working on personal blog
